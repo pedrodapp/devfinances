@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="./devfinances.png" width="80%">
+  <img alt="dev.finances" src="./devfinances.png" width="70%">
 </p>
 
 ## 🚀 Tecnologias
